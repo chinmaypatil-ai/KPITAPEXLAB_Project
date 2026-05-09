@@ -1,5 +1,5 @@
 # KPITAPEXLAB_Project
-````markdown
+
 # Vehicle Monitoring System using Linux IPC
 
 A multi-process Vehicle Monitoring System developed in C using Linux System Programming concepts such as:
