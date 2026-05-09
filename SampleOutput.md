@@ -1,4 +1,4 @@
-````markdown id="dr8v0n"
+
 # Sample Output
 
 ## Terminal Output
